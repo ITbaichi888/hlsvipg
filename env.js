@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: 'https://bing.phantasy.life/App/beijing.png',
+  background_url: 'https://1c97cec1.cloudflare-r2-oss-cgm.pages.dev/raw/hls/beijing.png',
   // 站点LOGO
-  logo: 'https://bing.phantasy.life/logohls.png',
+  logo: 'https://1c97cec1.cloudflare-r2-oss-cgm.pages.dev/raw/hls/logo.png',
 }
