@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://fu789.nlwghu.cn/'
+window.routerBase = 'https://ffu2.exlsjn.cn/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
