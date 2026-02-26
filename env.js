@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://site.8088.eu.org/'
+window.routerBase = 'https://gw.8088.eu.org/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
